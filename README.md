@@ -62,16 +62,6 @@ Backend API for dental clinic management.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BUBLYAASH\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BUBLYAASH\&layout=compact\&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=BUBLYAASH\&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 * 💬 Telegram: @bublyaash
